@@ -2,7 +2,7 @@
 
 ## Summary
 
-Just a simple Java app where players can play a fun game of Tic Tac Toe. This further reinforces my skills in Object Oriented Programming in Java along with GUI through the use of Java's Swing framework. Also helped me learn event handling through clicks and so on.
+Just a simple Java app where players can play a fun game of Tic Tac Toe. This further reinforces my skills in Object Oriented Programming in Java along with threading and GUI's through the use of Java's Swing framework. Also helped me learn event handling through clicks and so on.
 
 ## To access the code
 
