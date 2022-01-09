@@ -1,9 +1,11 @@
+package src.ttt;
+
 public class Logic {
     // attributes
     private static int[][] map;
 
     // getter
-    public int[][] getMap() {
+    public static int[][] getMap() {
         return map;
     }
 
